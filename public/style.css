@@ -1,0 +1,62 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+  h1 {
+    color: maroon;
+  }
+
+  .post {
+    background-color: #333;
+  }
+
+  .user {
+    font-style: italic;
+  }
+
+  .new-post {
+    background-color: rgb(255, 255, 255); 
+    border: 0.1rem solid blue;
+    border-radius: 2rem;
+    color: blue;
+    padding: 0.6rem 1.4rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.2rem;
+  }
+
+  .edit-post {
+    text-decoration: none;
+    color: white;
+    border: 0.1rem solid white;
+    background-color: green;
+    padding: 0.3rem 0.9rem;
+    font-size: 0.8rem;
+  }
+
+  .see-post {
+    text-decoration: none;
+    color: white;
+    border: 0.1rem solid white;
+    padding: 0.3rem 0.9rem;
+    font-size: 0.8rem;
+  }
+  
+  .delete {
+    background-color: maroon;
+   border: 0.1 rem solid black;
+    color: white;
+    padding: 0.3rem 1.9rem;
+    text-align: center;
+    display: inline-block;
+    font-size: 0.7rem;
+  }
+
+  .btn {
+    background-color: 	#1877F2;
+    color: white;
+    padding: 0.3rem 1.9rem;
+    font-size: 0.7rem;
+  }
